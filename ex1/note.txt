@@ -1,0 +1,2 @@
+Xem note ở index.html line 17
+Đọc note và sửa lại main.js line 63
